@@ -1,0 +1,23 @@
+# Hugo
+/public/
+/resources/_gen/
+/data/_gen/
+/hugo_cache/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor files
+.vscode/
+.idea/
+
+# Dotenv files
+.env
+.env.*
+
+# Backup files
+*.bak
+*.swp
+*~
+*.log
